@@ -18,5 +18,5 @@ We are a passionate team that believes in providing modern web infrastructure to
 
 
 
-|   [SOLUS]   |<a href="https://imgbb.com/"><img src="https://i.ibb.co/Y26RZtj/solus.png" style="width: 60%" alt="solus" border="0"></a>|
+|   [SOLUS]   |<a href="https://imgbb.com/"><img src="https://i.ibb.co/qB3jhJL/Screenshot-2.jpg" alt="Screenshot-2" border="0"></a>|
 | :----------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
